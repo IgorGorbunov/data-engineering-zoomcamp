@@ -1,0 +1,82 @@
++--------------------------------+---------+
+| [38;5;47;01mZone[39;00m                           | [38;5;47;01mcount[39;00m   |
+|--------------------------------+---------|
+| Flatlands                      | 1       |
+| Inwood                         | 1       |
+| Windsor Terrace                | 1       |
+| Boerum Hill                    | 1       |
+| Williamsbridge/Olinville       | 1       |
+| Sunnyside                      | 1       |
+| Spuyten Duyvil/Kingsbridge     | 1       |
+| Seaport                        | 1       |
+| Pelham Bay                     | 1       |
+| Crown Heights South            | 1       |
+| Park Slope                     | 1       |
+| Eastchester                    | 1       |
+| East Flatbush/Farragut         | 1       |
+| Old Astoria                    | 1       |
+| Ocean Hill                     | 1       |
+| Morrisania/Melrose             | 1       |
+| East Williamsburg              | 1       |
+| Bay Ridge                      | 1       |
+| Flatbush/Ditmas Park           | 1       |
+| Jackson Heights                | 1       |
+| Kips Bay                       | 2       |
+| Financial District North       | 2       |
+| Greenwich Village South        | 2       |
+| Hudson Sq                      | 2       |
+| Battery Park City              | 2       |
+| Long Island City/Hunters Point | 2       |
+| Lower East Side                | 2       |
+| Manhattanville                 | 2       |
+| Penn Station/Madison Sq West   | 2       |
+| SoHo                           | 2       |
+| Stuy Town/Peter Cooper Village | 2       |
+| Sunset Park West               | 2       |
+| Steinway                       | 3       |
+| NV                             | 3       |
+| Washington Heights North       | 3       |
+| TriBeCa/Civic Center           | 3       |
+| East Village                   | 4       |
+| Bloomingdale                   | 4       |
+| Flatiron                       | 4       |
+| Meatpacking/West Village West  | 5       |
+| Hamilton Heights               | 5       |
+| Central Harlem North           | 5       |
+| Gramercy                       | 6       |
+| East Chelsea                   | 7       |
+| Washington Heights South       | 7       |
+| East Harlem North              | 8       |
+| West Village                   | 8       |
+| Times Sq/Theatre District      | 9       |
+| Greenwich Village North        | 9       |
+| Clinton West                   | 10      |
+| Morningside Heights            | 11      |
+| Little Italy/NoLiTa            | 11      |
+| Sutton Place/Turtle Bay North  | 12      |
+| UN/Turtle Bay South            | 12      |
+| Central Harlem                 | 13      |
+| West Chelsea/Hudson Yards      | 13      |
+| Union Sq                       | 15      |
+| Garment District               | 18      |
+| Midtown South                  | 19      |
+| Clinton East                   | 19      |
+| Murray Hill                    | 20      |
+| Lenox Hill East                | 21      |
+| East Harlem South              | 22      |
+| Midtown East                   | 23      |
+| Manhattan Valley               | 24      |
+| Yorkville East                 | 25      |
+| Midtown North                  | 30      |
+| Lincoln Square West            | 36      |
+| Lenox Hill West                | 39      |
+| Yorkville West                 | 40      |
+| Midtown Center                 | 56      |
+| Central Park                   | 59      |
+| Upper West Side South          | 60      |
+| Upper West Side North          | 68      |
+| Lincoln Square East            | 83      |
+| Upper East Side North          | 94      |
+| Upper East Side South          | 97      |
++--------------------------------+---------+
+SELECT 77
